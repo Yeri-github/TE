@@ -1,0 +1,84 @@
+AM1131AS201
+Annual Survey of Manufactures: Geographic Area Statistics: Statistics for All Manufacturing by State: 2011 REFRESH
+
+Release Date : 12/17/2013
+
+NOTE: For information on confidentiality protection, sampling error, nonsampling error, and definitions, see Survey Methodology. Data in this table represent those available when this report was created. Data may not be available for all NAICS industries or geographies. Detail items may not add to total due to independent rounding.  For information on ASM, see the Annual Survey of Manufactures (ASM) Website.
+
+Data from the 2011 Annual Survey of Manufactures - REFRESH supersede data originally published in the 2011 Annual Survey of Manufactures (ASM). A typical ASM publishes data for two years: the current year, and an updated version of the prior year. Because the Economic Census only publishes one year of data, the ASM REFRESH is released in years ending in 1 and 6 - those preceding the Economic Census - as a means of updating data for those reference periods.
+
+ 
+  
+  Table Name 
+  Annual Survey of Manufactures: Geographic Area Statistics: Statistics for All Manufacturing by State: 2011 (REFRESH) 
+  
+  
+  ReleaseDate 
+  12/17/2013 
+  
+  
+  Universe 
+  The universe is a sample of manufacturing establishments classified in sectors 31-33 with one or more paid employees at any time during the year. 
+  
+  
+  GeographyCoverage 
+  Data are shown at the U.S. and state levels. 
+  
+  
+  IndustryCoverage 
+  Data are shown at the three- and four-digit North American Industry Classification System (NAICS) levels. 
+  
+  
+  Data ItemsandOtherIdentifyingRecords 
+  This file contains data on: 
+    
+    Total employment 
+    Relative standard error of total employment (%) 
+    Average annual production workers 
+    Total annual payroll ($1,000) 
+    Production workers wages ($1,000) 
+    Production workers hours (1,000) 
+    Total cost of materials ($1,000) 
+    Value added ($1,000) 
+    Relative standard error of value added (%) 
+    Total value of shipments ($1,000) 
+    Total capital expenditures (new and used) ($1,000) 
+    Relative standard error of total capital expenditures (new and used) (%) 
+     
+  
+  
+  Sort Order 
+  Data are presented in ascending geography (U.S. x ST) by NAICS code sequence. 
+  
+  
+  FTP Download 
+  Download the entire table at http://www2.census.gov/econ2011/AM/sector31/AM1131AS201.zip 
+  
+  
+  ContactInformation 
+  U.S. Census Bureau, Manufacturing & Construction Division Information Services Center Washington, DC. 20233-6900 Tel: (301)763-4673 ask.census.gov 
+  
+
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+S	Withheld because estimate did not meet publication standards
+
+g	1,000 to 2,499 employees
+
+f	500 to 999 employees
+
+(s)	Relative standard error is 40 percent or more and less than 100 percent
+
+k	25,000 to 49,999 employees
+
+h	2,500 to 4,999 employees
+
+i	5,000 to 9,999 employees
+
+X	Not applicable
+
+A	Standard error of 100 percent or more
+
+Source: U.S. Census Bureau, 2011 Annual Survey of Manufactures REFRESH.
+

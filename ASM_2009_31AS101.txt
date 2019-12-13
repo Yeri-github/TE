@@ -1,0 +1,67 @@
+AM0931AS101
+Annual Survey of Manufactures: Geographic Area Statistics: Statistics for All Manufacturing by State: 2009 and 2008
+
+NOTE: For information on confidentiality protection, sampling error, nonsampling error, and definitions, see Survey Methodology. Data in this table represent those available when this report was created. Data may not be available for all NAICS industries or geographies. Detail items may not add to total due to independent rounding.  For information on ASM, see the Annual Survey of Manufactures (ASM) Website.
+
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+S	Withheld because estimate did not meet publication standards
+
+(s)	Sampling error exceeds 40 percent
+
+X	Not applicable
+
+g	1,000 to 2,499 employees
+
+k	25,000 to 49,999 employees
+
+h	2,500 to 4,999 employees
+
+i	5,000 to 9,999 employees
+
+f	500 to 999 employees
+
+UNIVERSE DESCRIPTION
+The universe is a sample of manufacturing establishments
+classified in sectors 31-33 with one or more paid employees at any
+time during the year.
+DATA ITEMS
+This file contains data on:
+
+  Total employment
+  Relative standard error of total employment (%)
+  Average annual production workers
+  Total annual payroll ($1,000)
+  Production workers wages ($1,000)
+  Production workers hours (1,000)
+  Total cost of materials ($1,000)
+  Value added ($1,000)
+  Relative standard error of value added (%)
+  Total value of shipments ($1,000)
+  Total capital expenditures (new and used) ($1,000)
+  Relative standard error of total capital expenditures (new
+  and used) (%)
+
+GEOGRAPHIC COVERAGE
+Data are shown at the U.S. and state levels.
+INDUSTRY DETAIL
+Data are shown at the three- and four-digit North American
+Industry Classification System (NAICS) levels.
+OTHER VARIABLES IDENTIFYING RECORDS
+None.
+RELEASE SCHEDULE
+Data are scheduled for release in December 2010.
+RELATED DATA FILES
+None.
+DATA LIMITATIONS
+Data are subject to sampling and non-sampling errors.
+FILE SEQUENCE
+Data are presented in ascending geography (U.S. x ST) by NAICS
+code sequence.
+ESTIMATED FILE SIZE
+The estimated size of this file is 750 KB.
+
+
+
+
